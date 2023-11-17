@@ -928,3 +928,38 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: white;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 70%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+input[type="submit"] {
+    width: 50%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #2e66a5;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+.pirocavoadora{
+  color: white;
+}
+
+
